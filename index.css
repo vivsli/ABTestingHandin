@@ -1,0 +1,27 @@
+/* Put your style information here! */
+.center_img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 50%;
+  }
+
+.description{
+    padding-top: 2.7%;
+}
+
+.center_list{
+    text-align: left;
+ margin-left: 22%;
+}
+
+.observations_and_answers {
+    text-decoration: underline;
+}
+
+.center_storyboard {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 75%;
+}
