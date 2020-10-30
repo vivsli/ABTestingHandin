@@ -31,22 +31,6 @@ ol {
     font-weight: 500;
 }
 
-
-
-@media only screen and (max-width: 768px) {
-    h1 {
-        font-size: 20px !important;
-    }
-
-    h2 {
-        font-size: 15px;
-    }
-
-    .all-staff {
-        font-size: 10px;
-    }
-}
-
 .title {
     color: rgb(175, 232, 255);
     text-shadow: -3px 4px #294a91;
